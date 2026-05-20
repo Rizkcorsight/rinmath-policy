@@ -5,33 +5,34 @@ title: Rinmath — Privacy Policy
 
 # Rinmath — Privacy Policy
 
-*Last updated: 2026-05-08*
+*Last updated: 2026-05-20*
 
 ## Plain-language summary
 
-Rinmath collects nothing. Everything you do stays on your iPhone or
-iPad. There are no servers, no accounts, no logins. We don't talk to
-advertisers or analytics services. The app is paid up-front; there is
-no in-app purchase, no subscription, and no ads.
+Rinmath collects nothing. Everything you do stays on your device.
+There are no servers, no accounts, no logins. We don't talk to
+advertisers or analytics services. Some versions of Rinmath are paid
+up-front; others are free with an optional one-time Rinmath Pro unlock.
+There is no subscription, no ads, and no tracking.
 
 ## What's stored on your device
 
 - **Today's puzzle state** (which rings you've rotated, your move
   count, elapsed time, current streak, onboarding flag, color-assist
   preference, sound preference, preferred operation) — saved as a
-  small JSON blob in your device's `UserDefaults` under the key
-  `rinmath.snapshot.v1`.
+  small local preferences blob on your device.
 - **Lifetime solve log** (date, difficulty, target, par, moves, time
   for each completed daily) — saved under `rinmath.history.v1`. Used
   to draw your History calendar and compute the Stats dashboard.
   Capped at 1,024 records.
-- **Widget rollup** — a separate small JSON blob (today's target,
-  difficulty, current streak, solved/in-progress flag) is written into
-  the app's App Group container so the home-screen widget can render
-  without launching the app. The App Group identifier is
-  `group.com.rizkcorsight.rinmath`. This data also stays on your device — App
-  Groups are an Apple sandboxing mechanism for sharing data between
-  an app and its extensions, not a network channel.
+- **Rinmath Pro entitlement** — if you unlock Pro, the app stores a
+  local flag so Pro features remain available offline. Purchases and
+  restores are processed by Apple or Google, depending on the store you
+  used. Rinmath does not receive or store your payment card details.
+- **Widget rollup** — on platforms with a home-screen widget, a
+  separate small local blob (today's target, difficulty, current
+  streak, solved/in-progress flag) is written so the widget can render
+  without launching the app. This data also stays on your device.
 
 ## What's NOT collected
 
@@ -42,21 +43,44 @@ no in-app purchase, no subscription, and no ads.
 - No crash reports sent to us. (iOS may send anonymized crash data to
   Apple if your device's Diagnostics setting opts in — that's between
   you and Apple.)
-- No third-party SDKs are linked into the app at all.
+- No third-party analytics or advertising SDKs are linked into the app.
+
+## Purchases and Rinmath Pro
+
+Rinmath Pro is a one-time unlock for premium features such as Stats,
+full History, color assist, Solve Coach, and unlimited custom puzzle
+creation. Free players can still play the daily puzzle, free-play
+puzzles, share solves, and play shared custom puzzle codes.
+
+Purchases are handled by the app store you use:
+
+- On Apple platforms, Apple StoreKit processes the purchase and restore
+  flow.
+- On Android, Google Play Billing processes the purchase and restore
+  flow.
+
+Those store services may process purchase information under their own
+policies. Rinmath itself has no account system and does not send
+purchase history, puzzle history, or personal information to any
+Rizk Corsight server.
 
 ## Network usage
 
-Rinmath is fully offline by design. The app makes no network requests.
-No data ever leaves your device.
+Rinmath is offline-first by design. Playing puzzles, saving progress,
+viewing history, and generating share text happen locally on your
+device. Network access is used only when the operating system or app
+store handles a purchase, restore, or store-managed check for Rinmath
+Pro.
 
 ## Sharing your solve
 
 When you tap the Share button after solving, Rinmath generates a small
-text "share grid" (eight emoji circles plus your stats — looks like
-🟢⚪️🟢🟢⚪️🟢🟢🟢) and hands it to the iOS Share Sheet. What happens
+text "share grid" and hands it to the system share sheet. When you
+create a custom puzzle, Rinmath can generate a `RINM-` puzzle code that
+describes the puzzle settings, not personal information. What happens
 next is entirely your choice — you decide whether to copy it, send it
-in Messages, drop it in a group chat, post it on social media, or
-cancel out. Rinmath itself never transmits the share text anywhere.
+in a message, post it, or cancel out. Rinmath itself never transmits
+the share text or puzzle code anywhere.
 
 ## Required-reason API declarations
 
@@ -72,10 +96,11 @@ APIs.
 
 ## Audience
 
-Rinmath is rated for general audiences. It is not in the Kids Category
-on the App Store; if you have purchased the app for a child via Family
-Sharing, the same privacy posture applies — no information is
-collected from any user regardless of age.
+Rinmath is rated for general audiences. It is not directed to children
+and is not in the Kids Category on the App Store. If a child uses
+Rinmath through a family purchase or family-managed device, the same
+privacy posture applies — no information is collected from any user
+regardless of age.
 
 ## Changes to this policy
 
