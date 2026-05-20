@@ -9,11 +9,11 @@ title: Rinmath — Privacy Policy
 
 ## Plain-language summary
 
-Rinmath collects nothing. Everything you do stays on your device.
+Rinmath collects nothing. Normal gameplay stays on your device.
 There are no servers, no accounts, no logins. We don't talk to
-advertisers or analytics services. Some versions of Rinmath are paid
-up-front; others are free with an optional one-time Rinmath Pro unlock.
-There is no subscription, no ads, and no tracking.
+advertisers or analytics services. Rinmath is free with one optional
+one-time Rinmath Pro unlock. There is no subscription, no ads, and no
+tracking.
 
 ## What's stored on your device
 
@@ -22,9 +22,9 @@ There is no subscription, no ads, and no tracking.
   preference, sound preference, preferred operation) — saved as a
   small local preferences blob on your device.
 - **Lifetime solve log** (date, difficulty, target, par, moves, time
-  for each completed daily) — saved under `rinmath.history.v1`. Used
-  to draw your History calendar and compute the Stats dashboard.
-  Capped at 1,024 records.
+  for each completed daily) — saved locally on your device. Used to
+  draw your History calendar and compute the Stats dashboard. Capped
+  at 1,024 records.
 - **Rinmath Pro entitlement** — if you unlock Pro, the app stores a
   local flag so Pro features remain available offline. Purchases and
   restores are processed by Apple or Google, depending on the store you
@@ -48,9 +48,10 @@ There is no subscription, no ads, and no tracking.
 ## Purchases and Rinmath Pro
 
 Rinmath Pro is a one-time unlock for premium features such as Stats,
-full History, color assist, Solve Coach, and unlimited custom puzzle
-creation. Free players can still play the daily puzzle, free-play
-puzzles, share solves, and play shared custom puzzle codes.
+full History, color assist, Solve Coach, unlimited custom puzzle
+creation, and the Apple Watch companion on Apple platforms. Free
+players can still play the daily puzzle, free-play puzzles, share
+solves, and play shared custom puzzle codes.
 
 Purchases are handled by the app store you use:
 
@@ -82,31 +83,19 @@ next is entirely your choice — you decide whether to copy it, send it
 in a message, post it, or cancel out. Rinmath itself never transmits
 the share text or puzzle code anywhere.
 
-## Required-reason API declarations
-
-Per Apple's Privacy Manifest, Rinmath declares the following
-required-reason API:
-
-- `UserDefaults` — to save your progress, history, and preferences
-  (Reason: CA92.1, "to access user defaults to read or write
-  information that is only accessible to the app itself").
-
-Rinmath does not use `FileTimestamp`, `DiskSpace`, or `SystemBootTime`
-APIs.
-
 ## Audience
 
-Rinmath is rated for general audiences. It is not directed to children
-and is not in the Kids Category on the App Store. If a child uses
-Rinmath through a family purchase or family-managed device, the same
-privacy posture applies — no information is collected from any user
-regardless of age.
+Rinmath is rated for general audiences. It is not directed to children,
+is not in the Kids Category on the App Store, and is not in Google
+Play's Designed for Families program. If a child uses Rinmath through a
+family purchase or family-managed device, the same privacy posture
+applies — no information is collected from any user regardless of age.
 
 ## Changes to this policy
 
 If we ever change the policy, the "Last updated" date at the top will
-change, and the change will be summarized in the App Store release
-notes for the build that introduces it.
+change, and the change will be summarized in store release notes for the
+build that introduces it.
 
 ## Contact
 
