@@ -38,12 +38,12 @@ tracking.
 
 - No name. No email. No phone number. No location. No birthdate.
 - No camera, microphone, photo library, or contacts access.
-- No advertising identifiers (IDFA, IDFV).
-- No analytics events. No telemetry of any kind.
+- No advertising identifiers, including Apple advertising identifiers or the Android Advertising ID.
+- No analytics events. No tracking.
 - No crash reports sent to us. (iOS may send anonymized crash data to
   Apple if your device's Diagnostics setting opts in — that's between
   you and Apple.)
-- No third-party analytics or advertising SDKs are linked into the app.
+- No third-party analytics, advertising, or tracking tools are linked into the app.
 
 ## Purchases and Rinmath Pro
 
