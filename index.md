@@ -7,6 +7,14 @@ title: Rinmath — Privacy Policy
 
 *Last updated: 2026-05-20*
 
+<!-- policy-translations-start -->
+## Translations
+
+Translations are provided for convenience. The English policy controls if there is any difference.
+
+[Español](es/) | [Français](fr/) | [Deutsch](de/) | [Italiano](it/) | [日本語](ja/) | [한국어](ko/) | [Português (Brasil)](pt-BR/) | [简体中文](zh-Hans/) | [繁體中文](zh-Hant/) | [العربية](ar/) | [עברית](he/) | [Nederlands](nl/) | [Русский](ru/)
+<!-- policy-translations-end -->
+
 ## Plain-language summary
 
 Rinmath collects nothing. Normal gameplay stays on your device.

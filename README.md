@@ -33,3 +33,23 @@ If you want `privacy.rinmath.app` instead of the github.io URL, add a
 `CNAME` file at the repo root containing only `privacy.rinmath.app`,
 then point that subdomain at GitHub Pages from your DNS provider per
 [GitHub's docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
+
+<!-- policy-translations-start -->
+## Localized Privacy Policies
+
+The root URL remains the canonical English policy. Localized convenience translations are available at:
+
+- Español: `https://rizkcorsight.github.io/rinmath-policy/es/`
+- Français: `https://rizkcorsight.github.io/rinmath-policy/fr/`
+- Deutsch: `https://rizkcorsight.github.io/rinmath-policy/de/`
+- Italiano: `https://rizkcorsight.github.io/rinmath-policy/it/`
+- 日本語: `https://rizkcorsight.github.io/rinmath-policy/ja/`
+- 한국어: `https://rizkcorsight.github.io/rinmath-policy/ko/`
+- Português (Brasil): `https://rizkcorsight.github.io/rinmath-policy/pt-BR/`
+- 简体中文: `https://rizkcorsight.github.io/rinmath-policy/zh-Hans/`
+- 繁體中文: `https://rizkcorsight.github.io/rinmath-policy/zh-Hant/`
+- العربية: `https://rizkcorsight.github.io/rinmath-policy/ar/`
+- עברית: `https://rizkcorsight.github.io/rinmath-policy/he/`
+- Nederlands: `https://rizkcorsight.github.io/rinmath-policy/nl/`
+- Русский: `https://rizkcorsight.github.io/rinmath-policy/ru/`
+<!-- policy-translations-end -->
