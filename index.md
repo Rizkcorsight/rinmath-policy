@@ -105,6 +105,13 @@ If we ever change the policy, the "Last updated" date at the top will
 change, and the change will be summarized in store release notes for the
 build that introduces it.
 
+## Trademarks
+
+Rinmath is a trademark of Rizk Corsight, LLC. Apple, App Store, and Apple
+Watch are trademarks of Apple Inc.; Google Play and Android are trademarks of
+Google LLC. All other product and company names are used for identification
+only and remain the property of their respective owners.
+
 ## Contact
 
 Email: [rizkcorsight@rizkcorsight.com](mailto:rizkcorsight@rizkcorsight.com)
