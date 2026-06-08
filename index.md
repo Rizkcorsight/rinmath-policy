@@ -19,8 +19,7 @@ Translations are provided for convenience. The English policy controls if there 
 
 Rinmath collects nothing. Normal gameplay stays on your device.
 There are no servers, no accounts, no logins. We don't talk to
-advertisers or analytics services. Rinmath is free with one optional
-one-time Rinmath Pro unlock. There is no subscription, no ads, and no
+advertisers or analytics services. Rinmath includes a 3-day full-access free trial, then the one-time Rinmath Pro unlock. There is no subscription, no ads, and no
 tracking.
 
 ## What's stored on your device
@@ -55,7 +54,7 @@ tracking.
 
 ## Purchases and Rinmath Pro
 
-Rinmath Pro is a one-time unlock for premium features such as Stats,
+Rinmath Pro starts with a 3-day full-access free trial, then a one-time unlock for premium features such as Stats,
 full History, color assist, Solve Coach, unlimited custom puzzle
 creation, and the Apple Watch companion on Apple platforms. Free
 players can still play the daily puzzle, free-play puzzles, share
