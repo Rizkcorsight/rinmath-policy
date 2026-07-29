@@ -3,6 +3,13 @@ layout: default
 title: Rinmath — Privacy Policy
 ---
 
+<!-- privacy-localizations-2026-07-29-start -->
+<aside style="margin:16px auto;padding:13px 15px;max-width:920px;border:1px solid #9cb2a9;border-radius:12px">
+<strong>Privacy policy translations:</strong> <a href="privacy/languages.html">Read this policy in every language offered by the Apple App Store or Google Play listing.</a>
+</aside>
+<!-- privacy-localizations-2026-07-29-end -->
+
+
 <!-- store-access-2026-07-15-start -->
 > **Store access and purchases — updated July 15, 2026:** Rinmath is free to download and includes a local 3-day full-access trial. After the trial, continued access requires one one-time unlock at the price displayed by Apple App Store or Google Play. There is no subscription, automatic renewal, or recurring charge. [Read this disclosure in every supported language](store-access.html).
 <!-- store-access-2026-07-15-end -->
@@ -10,7 +17,7 @@ title: Rinmath — Privacy Policy
 
 # Rinmath — Privacy Policy
 
-*Last updated: 2026-06-27*
+*Last updated: 2026-07-21*
 
 <!-- policy-translations-start -->
 ## Translations
@@ -67,11 +74,13 @@ tracking.
 
 ## Purchases and Rinmath Pro
 
-Rinmath Pro starts with a 3-day full-access free trial, then a one-time unlock for premium features such as Stats,
-full History, color assist, Solve Coach, unlimited custom puzzle
-creation, and the Apple Watch companion on Apple platforms. Free
-players can still play the daily puzzle, free-play puzzles, share
-solves, and play shared custom puzzle codes.
+Rinmath starts with a local 3-day full-access free trial. After the
+trial ends, continued access to the app requires a one-time Pro unlock.
+That unlock restores the whole app permanently, including daily and
+free-play puzzles, sharing, shared custom puzzle codes, Stats, full
+History, color assist, Solve Coach, unlimited custom puzzle creation,
+and the Apple Watch companion on Apple platforms. There is no
+subscription, automatic renewal, or recurring charge.
 
 Purchases are handled by the app store you use:
 
